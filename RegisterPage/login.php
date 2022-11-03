@@ -18,7 +18,7 @@ include "mysqlConnection.php";
 <div id="main-windows">
 
     <div style="margin: 20px auto;height: 50px">
-        <div style="font-size: 30px;color: black;font-weight: 600">欢迎注册</div>
+        <div style="font-size: 30px;color: black;font-weight: 600">欢迎登录</div>
         <div style="color: black">
             <p>邮箱:<input id="email" type="text"></p>
 
